@@ -1,4 +1,5 @@
-                                                                    _**Monolithic Java Quiz Application**_
+**Monolithic Java Quiz Application**
+
 **Overview**
 The Monolithic Java Quiz App is a dynamic and fully functional quiz management system designed to create, manage, and evaluate quizzes. Developed using Spring Boot and Hibernate, this application allows users to take quizzes in a specified category, records their responses, and calculates scores upon submission. The monolithic architecture enables seamless integration of all components within a single application.
 
@@ -30,11 +31,11 @@ Set up a MySQL database and update the connection details in application.propert
 
 properties
 Copy code
-spring.datasource.url=jdbc:mysql://localhost:3306/quizdb
+__spring.datasource.url=jdbc:mysql://localhost:3306/quizdb
 spring.datasource.username=root
 spring.datasource.password=yourpassword
 spring.jpa.hibernate.ddl-auto=update
-Install Maven for dependency management.
+Install Maven for dependency management.__
 
 **Running the Application**
 Clone the repository:
