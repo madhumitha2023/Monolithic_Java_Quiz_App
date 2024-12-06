@@ -82,6 +82,4 @@ Expand support for more complex quiz types (e.g., timed quizzes).
 Contribution
 We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.
 
-
-
 Author: Madhumitha Koratagere Ramesh
